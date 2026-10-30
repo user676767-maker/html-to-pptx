@@ -1,0 +1,8 @@
+{
+  "name": "dom-to-pptx",
+  "version": "2.1.2",
+  "source": "https://registry.npmjs.org/dom-to-pptx/-/dom-to-pptx-2.1.2.tgz",
+  "sha256": "6dfa240d245bc9a4a68f383211ca824a4bf4dd54b07664a677f3a8adc04b1094",
+  "upstream_sha256": "4cf0ee1809f716267e8c0a8e317d7c9e838b5ca5d2ea914f30d43cde84a84c56",
+  "local_patch": "v1.2: text metrics scaling; fixed text bounds with shrink fit; no duplicate parent margins on measured text nodes"
+}
